@@ -13,6 +13,6 @@ This project converts the structure and logic of a Retrieval-Augmented Generatio
 - Python 3.8+
 - `matplotlib`
 - `google.generativeai` (Gemini API SDK)
-- `networkx` (optional, for graph building)
+- `networkx` (for graph building)
 
 ## Installation
